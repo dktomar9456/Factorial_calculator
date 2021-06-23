@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(236, 234, 229);
+}
+
+h1 {
+    color: rgb(89, 7, 105);
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.heading {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.input input {
+    width: 300px;
+    font-size: 22px;
+    border: solid black 2px;
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+.Button button {
+    width: 200px;
+    margin: auto;
+    display: block;
+    font-size: 20px;
+}
+
+#output {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
